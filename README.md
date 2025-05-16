@@ -2,7 +2,7 @@
 
 SOMA is a novel hybrid evolutionary algorithm inspired by Bacterial Evolutionary Algorithms, Differential Evolution, and Genetic Algorithms. It introduces two custom operators — the **Scylla Operator** and the **Charybdis Bacterial Mutation** — inspired by Greek mythology, combined with a differential evolution-like mechanism.
 
-This repository contains the MATLAB implementation of SOMA and the experiments described in our conference paper.
+This repository contains the MATLAB implementation of SOMA as described in our conference paper.
 
 ## 🌊 Algorithm Overview
 
