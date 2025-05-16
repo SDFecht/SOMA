@@ -52,19 +52,7 @@ To appear at IntRobFAIR '25, June 23–25, 2025, Budapest, Hungary.
 
 ## 📖 Citation
 
-If you use this algorithm in your research, please cite our paper:
-
-```bibtex
-@inproceedings{fecht2025soma,
-  author       = {Fecht, Szilárd Dávid and Domonkos, Márk and Botzheim, János},
-  title        = {Solving Inverse Kinematics Problems Using Strait of Messina Algorithm},
-  booktitle    = {Proceedings of IntRobFAIR '25},
-  year         = {2025},
-  publisher    = {ACM},
-  address      = {Budapest, Hungary},
-  doi          = {XXXXXXX.XXXXXXX}
-}
-```
+If you use this algorithm in your research, please cite our paper.
 
 ## 🔓 License
 
