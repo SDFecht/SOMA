@@ -47,14 +47,13 @@ This implementation is part of the research submitted as:
 *Szilárd Dávid Fecht, Márk Domonkos, János Botzheim*  
 To appear at IntRobFAIR '25, June 23–25, 2025, Budapest, Hungary.
 
-📄 [PDF coming soon]  
-🔗 DOI: 10.1145/3759355.3759367
+CC-BY
+ 
+This work is licensed under a Creative Commons Attribution International 4.0 License.
+IntRob '25 June 23--24, 2025,Budapest, Hungary© 2025 Copyright is held by the owner/author(s).
+ACM ISBN 979-8-4007-1589-1/25/06
+https://doi.org/10.1145/3759355.3759367
 
-## 📖 Citation
-
-If you use this algorithm in your research, please cite our paper.
-
-## 🔓 License
 
 This code is made available for **academic and non-commercial use**.  
 License: Creative Commons 4.0 https://creativecommons.org/licenses/by/4.0/ 
