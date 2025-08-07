@@ -48,7 +48,7 @@ This implementation is part of the research submitted as:
 To appear at IntRobFAIR '25, June 23–25, 2025, Budapest, Hungary.
 
 📄 [PDF coming soon]  
-🔗 DOI: _to be updated_
+🔗 DOI: 10.1145/3759355.3759367
 
 ## 📖 Citation
 
@@ -57,6 +57,6 @@ If you use this algorithm in your research, please cite our paper.
 ## 🔓 License
 
 This code is made available for **academic and non-commercial use**.  
-License: [MIT License](LICENSE)
+License: Creative Commons 4.0 https://creativecommons.org/licenses/by/4.0/ 
 
 > For questions or contributions, please contact: [fecht@inf.elte.hu](mailto:fecht@inf.elte.hu)
