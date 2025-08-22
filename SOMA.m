@@ -3,8 +3,11 @@
 %
 % Coded by: Szilard David Fecht
 %
-% paper:
-%  DOI:
+% paper: Szilárd Dávid Fecht, Márk Domonkos, and János Botzheim. 2025.
+% Solving Inverse Kinematics Problems Using Strait of Messina Evolutionary
+% Algorithm. In Intelligent Robotics FAIR 2025 (IntRob ’25),
+% June 23–24, 2025, Budapest, Hungary. ACM, New York, NY, USA, 8 pages.
+% https://doi.org/10.1145/3759355.3759367
 %  
 %  E-mail: fecht@inf.elte.hu (Szilard David Fecht)
 %_________________________________________________________________________
@@ -99,4 +102,5 @@ while (costFuncCounter < maxFuncEval)
     end
 end
 bestCostArray = bestCostArray(1:gen);
+
 end
