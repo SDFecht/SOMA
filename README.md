@@ -4,7 +4,7 @@ SOMA is a novel hybrid evolutionary algorithm inspired by Bacterial Evolutionary
 
 This repository contains the MATLAB implementation of SOMA as described in our conference paper.
 
-## 🌊 Algorithm Overview
+## lgorithm Overview
 
 The SOMA algorithm operates in three evolutionary phases:
 
@@ -13,7 +13,7 @@ The SOMA algorithm operates in three evolutionary phases:
 3. **Differential Evolution Step** – Combines the evolved population with a memory-based step to refine the search direction.
 
 These steps are applied iteratively to solve optimization problems in both synthetic and real-world domains.
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 SOMA/
@@ -22,7 +22,7 @@ SOMA/
 ├── CalculateCost.m                # Fitness function interface
 └── SpecifyFunctionParameters.m    # Problem and algorithm parameters
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -39,7 +39,7 @@ Main
 
 This will execute the algorithm on one of the benchmark functions, depending on the settings in `SpecifyFunctionParameters.m`.
 
-## 📜 Publication
+##Publication
 
 This implementation is part of the research submitted as:
 
